@@ -1,0 +1,7 @@
+C:\Users\Dell\Desktop\js-courses\Algorithms\Algotithms-with-C-\Recursion and Backtracking\bin\Debug\Recursion and Backtracking.exe.config
+C:\Users\Dell\Desktop\js-courses\Algorithms\Algotithms-with-C-\Recursion and Backtracking\bin\Debug\Recursion and Backtracking.exe
+C:\Users\Dell\Desktop\js-courses\Algorithms\Algotithms-with-C-\Recursion and Backtracking\bin\Debug\Recursion and Backtracking.pdb
+C:\Users\Dell\Desktop\js-courses\Algorithms\Algotithms-with-C-\Recursion and Backtracking\obj\Debug\Alogithms.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\js-courses\Algorithms\Algotithms-with-C-\Recursion and Backtracking\obj\Debug\Alogithms.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\js-courses\Algorithms\Algotithms-with-C-\Recursion and Backtracking\obj\Debug\Recursion and Backtracking.exe
+C:\Users\Dell\Desktop\js-courses\Algorithms\Algotithms-with-C-\Recursion and Backtracking\obj\Debug\Recursion and Backtracking.pdb
