@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Recursion_and_Backtracking
+namespace Algorithms
 {
     class Program
     {
         public static void Main()
-        {
+         {
             var arr = Console.ReadLine()
                 .Split()
                 .Select(int.Parse)
